@@ -1,0 +1,41 @@
+[colors]
+cursor = #d8dee9
+cursor_foreground = #2e3440
+
+foreground = #d8caac
+foreground_bold = #d8caac
+background = rgba(48, 64, 63, 0.8)
+
+highlight = #4c566a
+
+# Black, Grey, Silver, White
+color0  = #323d43
+color8  = #465258
+color7  = #576268
+color15 = #d8dee9
+
+#Red
+color1  = #e68183
+color9  = #e68183
+
+#Green
+color2  = #a7c080
+color10 = #a7c080
+
+#Yellow
+color3  = #d9bb80
+color11 = #d9bb80
+
+#Blue
+color4  = #89beba
+color12 = #89beba
+
+#Purple
+color5  = #cf9fc0
+color13 = #cf9fc0
+
+#Teal
+color6  = #87c095
+color14 = #87c095
+[options]
+font = JetBrains Mono 12
